@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/proba_pages/static/css/main.cd7e2068.css",
-    "main.js": "/proba_pages/static/js/main.8abd1f5a.js",
+    "main.js": "/proba_pages/static/js/main.2b08a3f5.js",
     "static/media/NotFoundImg.gif": "/proba_pages/static/media/NotFoundImg.d0f36c57719f61168fcd.gif",
     "static/media/load.gif": "/proba_pages/static/media/load.42aaa181adb3af3bef08.gif",
     "index.html": "/proba_pages/index.html",
     "main.cd7e2068.css.map": "/proba_pages/static/css/main.cd7e2068.css.map",
-    "main.8abd1f5a.js.map": "/proba_pages/static/js/main.8abd1f5a.js.map"
+    "main.2b08a3f5.js.map": "/proba_pages/static/js/main.2b08a3f5.js.map"
   },
   "entrypoints": [
     "static/css/main.cd7e2068.css",
-    "static/js/main.8abd1f5a.js"
+    "static/js/main.2b08a3f5.js"
   ]
 }
